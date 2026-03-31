@@ -1,0 +1,19 @@
+~{
+  "format_version": 2,
+  "header": {
+    "name": "Chat Logger",
+    "description": "Logs chat to console",
+    "uuid": "676bb402-a25e-4b25-8000-7bd6b8f80f71",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Script module",
+      "type": "script",
+      "uuid": "79cd513e-1934-4d47-8976-7cf1dae1cb2b",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ]
+}

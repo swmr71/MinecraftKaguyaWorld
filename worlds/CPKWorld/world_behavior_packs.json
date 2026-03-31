@@ -1,0 +1,15 @@
+
+[
+	{
+		"pack_id" : "3cdb2ddf-662e-4f8f-a0a1-1293b91ccb2f",
+		"version" : [ 0, 10, 3 ]
+	},
+	{
+		"pack_id": "676bb402-a25e-4b25-8000-7bd6b8f80f71",
+    		"version": [1, 0, 0]
+	},
+	{
+		"pack_id": "1a2b3c4d-5e6f-47a8-9b0c-d1e2f3a4b5c6",
+		"version": [1, 0, 0]
+	}
+]

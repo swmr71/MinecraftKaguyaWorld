@@ -1,0 +1,2 @@
+# MinecraftKaguyaWorld
+まいくらさばのワールドデータ。
