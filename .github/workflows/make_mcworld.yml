@@ -35,12 +35,17 @@ jobs:
           zip -r ../../CPKWorld.mcworld .
           cd ../../
 
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v4
+# (前略: Checkout, Install zip, Create MCWorld までは同じ)
+
+      - name: Create Release
+        id: create_release
+        uses: softprops/action-gh-release@v2
         with:
-          name: Minecraft-World-Package
-          path: CPKWorld.mcworld
-          if-no-files-found: error
+          tag_name: v${{ github.run_number }}
+          name: Release v${{ github.run_number }}
+          files: CPKWorld.mcworld
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Discord Notification
         env:
@@ -48,9 +53,11 @@ jobs:
         if: always()
         run: |
           if [ "${{ job.status }}" == "success" ]; then
-            CONTENT="✅ **MCWorld作成完了！** CPKWorldをパッケージングしました。"
+            # リリースURLを含めて通知
+            URL="https://github.com/${{ github.repository }}/releases/tag/v${{ github.run_number }}"
+            CONTENT="✅ **配布用データ作成完了！**\nダウンロードはこちら: $URL"
           else
-            CONTENT="❌ **ワークフロー失敗** エラーログを確認してください。"
+            CONTENT="❌ **ワークフロー失敗** ログを確認してください。"
           fi
           curl -H "Content-Type: application/json" \
                -d "{\"content\": \"$CONTENT\"}" \
