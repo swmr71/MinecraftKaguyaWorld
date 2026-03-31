@@ -1,0 +1,44 @@
+name: Create MCWorld and Notify
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'worlds/CPKWorld/**'  # このフォルダに変更があった時だけ動く
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Create Zip and Rename to .mcworld
+        run: |
+          # worlds/CPKWorld の中身を zip 圧縮
+          cd worlds/CPKWorld
+          zip -r ../../CPKWorld.zip .
+          cd ../../
+          # 拡張子を変更
+          mv CPKWorld_Backup.zip CPKWorld.mcworld
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Minecraft-World-Package
+          path: CPKWorld.mcworld
+
+      - name: Discord Notification
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        if: always()
+        run: |
+          if [ "${{ job.status }}" == "success" ]; then
+            CONTENT="✅ **MCWorld作成完了！** CPKWorldの最新版をパッケージングしました。"
+          else
+            CONTENT="❌ **ワークフロー失敗** チェックしてください。"
+          fi
+          curl -H "Content-Type: application/json" \
+               -d "{\"content\": \"$CONTENT\"}" \
+               $DISCORD_WEBHOOK
