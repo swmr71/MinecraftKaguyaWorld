@@ -5,7 +5,11 @@ on:
     branches:
       - main
     paths:
-      - 'worlds/CPKWorld/**'  # このフォルダに変更があった時だけ動く
+      - 'worlds/CPKWorld/**'
+
+# Node.js 24 を強制使用する設定（警告対策）
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
@@ -14,20 +18,29 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Create Zip and Rename to .mcworld
+      - name: Install zip tool
+        run: sudo apt-get update && sudo apt-get install -y zip
+
+      - name: Check Directory and Create MCWorld
         run: |
-          # worlds/CPKWorld の中身を zip 圧縮
+          # フォルダが存在するか確認
+          if [ ! -d "worlds/CPKWorld" ]; then
+            echo "Error: worlds/CPKWorld directory not found!"
+            exit 1
+          fi
+          
+          # zip作成（-j オプションで余計な階層を含めないようにします）
+          # worlds/CPKWorld の中身を CPKWorld.mcworld という名前で圧縮
           cd worlds/CPKWorld
-          zip -r ../../CPKWorld.zip .
+          zip -r ../../CPKWorld.mcworld .
           cd ../../
-          # 拡張子を変更
-          mv CPKWorld_Backup.zip CPKWorld.mcworld
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: Minecraft-World-Package
           path: CPKWorld.mcworld
+          if-no-files-found: error
 
       - name: Discord Notification
         env:
@@ -35,9 +48,9 @@ jobs:
         if: always()
         run: |
           if [ "${{ job.status }}" == "success" ]; then
-            CONTENT="✅ **MCWorld作成完了！** CPKWorldの最新版をパッケージングしました。"
+            CONTENT="✅ **MCWorld作成完了！** CPKWorldをパッケージングしました。"
           else
-            CONTENT="❌ **ワークフロー失敗** チェックしてください。"
+            CONTENT="❌ **ワークフロー失敗** エラーログを確認してください。"
           fi
           curl -H "Content-Type: application/json" \
                -d "{\"content\": \"$CONTENT\"}" \
