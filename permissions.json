@@ -58,5 +58,13 @@
    {
       "permission" : "operator",
       "xuid" : "2535434748479963"
+   },
+   {
+      "permission" : "operator",
+      "xuid" : "2535458304676191"
+   },
+   {
+      "permission" : "operator",
+      "xuid" : "2535445856716988"
    }
 ]
