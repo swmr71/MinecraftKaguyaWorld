@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "My Custom Structures",
+        "name": "Structure Pack",
+        "uuid": "45d6d5b9-6bf9-47d4-be78-bdac39d488d2",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 0]
+    },
+    "modules": [
+        {
+            "description": "My Custom Structures",
+            "type": "data",
+            "uuid": "3a9b2297-2f6a-4481-a5a8-2f1f202910e4",
+            "version": [1, 0, 0]
+        }
+    ]
+}
