@@ -1,0 +1,75 @@
+Dedicated_Server.txt
+[2026-04-01 05:03:33:896 INFO] Player connected: Fuyuto0322, xuid: 2535438319380025
+[2026-04-01 05:03:40:332 INFO] Player PartyIdUpdate:  pfid: A2ED9EBF1F622DE4, partyid: 
+[2026-04-01 05:03:45:057 INFO] Player Spawned: Fuyuto0322 xuid: 2535438319380025, pfid: A2ED9EBF1F622DE4
+[2026-04-01 05:04:11:716 INFO] [Scripting] [LOG] [05:04:11 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:11:721 INFO] [Scripting] [LOG] [05:04:11 AM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 05:04:13:715 INFO] [Scripting] [LOG] [05:04:13 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:13:721 INFO] [Scripting] [LOG] [05:04:13 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 05:04:16:566 INFO] [Scripting] [LOG] [05:04:16 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:16:571 INFO] [Scripting] [LOG] [05:04:16 AM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 05:04:18:566 INFO] [Scripting] [LOG] [05:04:18 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:18:572 INFO] [Scripting] [LOG] [05:04:18 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 05:04:21:016 INFO] [Scripting] [LOG] [05:04:21 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:21:022 INFO] [Scripting] [LOG] [05:04:21 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 05:04:22:716 INFO] [Scripting] [LOG] [05:04:22 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:22:721 INFO] [Scripting] [LOG] [05:04:22 AM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 05:04:23:716 INFO] [Scripting] [LOG] [05:04:23 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:23:722 INFO] [Scripting] [LOG] [05:04:23 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 05:04:25:216 INFO] [Scripting] [LOG] [05:04:25 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:25:222 INFO] [Scripting] [LOG] [05:04:25 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 05:04:27:167 INFO] [Scripting] [LOG] [05:04:27 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:27:173 INFO] [Scripting] [LOG] [05:04:27 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 05:04:28:416 INFO] [Scripting] [LOG] [05:04:28 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:28:421 INFO] [Scripting] [LOG] [05:04:28 AM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 05:04:29:919 INFO] [Scripting] [LOG] [05:04:29 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:29:926 INFO] [Scripting] [LOG] [05:04:29 AM] Time taken to execute: 7ms (0.007 secs)
+
+[2026-04-01 05:04:31:366 INFO] [Scripting] [LOG] [05:04:31 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:31:372 INFO] [Scripting] [LOG] [05:04:31 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 05:04:33:216 INFO] [Scripting] [LOG] [05:04:33 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:33:222 INFO] [Scripting] [LOG] [05:04:33 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 05:04:34:566 INFO] [Scripting] [LOG] [05:04:34 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:34:572 INFO] [Scripting] [LOG] [05:04:34 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 05:04:36:517 INFO] [Scripting] [LOG] [05:04:36 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:36:523 INFO] [Scripting] [LOG] [05:04:36 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 05:04:37:016 INFO] [Scripting] [LOG] [05:04:37 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:37:021 INFO] [Scripting] [LOG] [05:04:37 AM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 05:04:38:765 INFO] [Scripting] [LOG] [05:04:38 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:38:771 INFO] [Scripting] [LOG] [05:04:38 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 05:04:39:217 INFO] [Scripting] [LOG] [05:04:39 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 05:04:39:223 INFO] [
