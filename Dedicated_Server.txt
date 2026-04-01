@@ -1,75 +1,74 @@
 Dedicated_Server.txt
-[2026-04-01 01:51:44:555 INFO] [Scripting] [LOG] [01:51:44 AM] Processing command ';kit ' for 'ayutori'
+[2026-04-01 01:56:48:955 INFO] [Scripting] [LOG] [01:56:48 AM] Processing command ';paste -s' for 'ayutori'
 
-[2026-04-01 01:51:44:564 INFO] [Scripting] [LOG] [01:51:44 AM] Time taken to execute: 9ms (0.009 secs)
+[2026-04-01 01:56:48:958 INFO] [Scripting] [LOG] [01:56:48 AM] Time taken to execute: 3ms (0.003 secs)
 
-[2026-04-01 01:52:28:455 INFO] Running AutoCompaction...
-[2026-04-01 01:52:58:105 INFO] [Scripting] [LOG] [01:52:58 AM] Processing command ';copy ' for 'ayutori'
+[2026-04-01 01:56:50:805 INFO] [Scripting] [LOG] [01:56:50 AM] Processing command ';paste -s' for 'ayutori'
 
-[2026-04-01 01:52:58:107 INFO] [Scripting] [LOG] [01:52:58 AM] Time taken to execute: 2ms (0.002 secs)
+[2026-04-01 01:56:50:809 INFO] [Scripting] [LOG] [01:56:50 AM] Time taken to execute: 4ms (0.004 secs)
 
-[2026-04-01 01:53:01:705 INFO] [Scripting] [LOG] [01:53:01 AM] Processing command ';copy ' for 'ayutori'
+[2026-04-01 01:56:53:005 INFO] [Scripting] [LOG] [01:56:53 AM] Processing command ';paste -s' for 'ayutori'
 
-[2026-04-01 01:53:01:708 INFO] [Scripting] [LOG] [01:53:01 AM] Time taken to execute: 3ms (0.003 secs)
+[2026-04-01 01:56:53:008 INFO] [Scripting] [LOG] [01:56:53 AM] Time taken to execute: 3ms (0.003 secs)
 
-[2026-04-01 01:53:05:555 INFO] [Scripting] [LOG] [01:53:05 AM] Processing command ';copy ' for 'ayutori'
+[2026-04-01 01:56:55:956 INFO] [Scripting] [LOG] [01:56:55 AM] Processing command ';paste -s' for 'ayutori'
 
-[2026-04-01 01:53:05:557 INFO] [Scripting] [LOG] [01:53:05 AM] Time taken to execute: 2ms (0.002 secs)
+[2026-04-01 01:56:55:959 INFO] [Scripting] [LOG] [01:56:55 AM] Time taken to execute: 3ms (0.003 secs)
 
-[2026-04-01 01:53:09:506 INFO] [Scripting] [LOG] [01:53:09 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 01:56:57:905 INFO] [Scripting] [LOG] [01:56:57 AM] Processing command ';paste -s' for 'ayutori'
 
-[2026-04-01 01:53:09:509 INFO] [Scripting] [LOG] [01:53:09 AM] Time taken to execute: 3ms (0.003 secs)
+[2026-04-01 01:56:57:908 INFO] [Scripting] [LOG] [01:56:57 AM] Time taken to execute: 3ms (0.003 secs)
 
-[2026-04-01 01:53:10:705 INFO] [Scripting] [LOG] [01:53:10 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 01:56:59:756 INFO] [Scripting] [LOG] [01:56:59 AM] Processing command ';paste -s' for 'ayutori'
 
-[2026-04-01 01:53:10:708 INFO] [Scripting] [LOG] [01:53:10 AM] Time taken to execute: 3ms (0.003 secs)
+[2026-04-01 01:56:59:759 INFO] [Scripting] [LOG] [01:56:59 AM] Time taken to execute: 3ms (0.003 secs)
 
-[2026-04-01 01:53:11:805 INFO] [Scripting] [LOG] [01:53:11 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 01:57:01:405 INFO] [Scripting] [LOG] [01:57:01 AM] Processing command ';paste -s' for 'ayutori'
 
-[2026-04-01 01:53:11:808 INFO] [Scripting] [LOG] [01:53:11 AM] Time taken to execute: 3ms (0.003 secs)
+[2026-04-01 01:57:01:409 INFO] [Scripting] [LOG] [01:57:01 AM] Time taken to execute: 4ms (0.004 secs)
 
-[2026-04-01 01:53:16:355 INFO] [Scripting] [LOG] [01:53:16 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 01:57:03:105 INFO] [Scripting] [LOG] [01:57:03 AM] Processing command ';paste -s' for 'ayutori'
 
-[2026-04-01 01:53:16:358 INFO] [Scripting] [LOG] [01:53:16 AM] Time taken to execute: 3ms (0.003 secs)
+[2026-04-01 01:57:03:109 INFO] [Scripting] [LOG] [01:57:03 AM] Time taken to execute: 4ms (0.004 secs)
 
-[2026-04-01 01:53:19:355 INFO] [Scripting] [LOG] [01:53:19 AM] Processing command ';pos2 439 121 653' for 'ayutori'
+[2026-04-01 01:57:04:205 INFO] [Scripting] [LOG] [01:57:04 AM] Processing command ';paste -s' for 'ayutori'
 
-[2026-04-01 01:53:19:355 INFO] [Scripting] [LOG] [01:53:19 AM] Time taken to execute: 0ms (0 secs)
+[2026-04-01 01:57:04:208 INFO] [Scripting] [LOG] [01:57:04 AM] Time taken to execute: 3ms (0.003 secs)
 
-[2026-04-01 01:53:23:355 INFO] [Scripting] [LOG] [01:53:23 AM] Processing command ';pos1 431 121 660' for 'Now Name5064'
+[2026-04-01 01:57:07:305 INFO] [Scripting] [LOG] [01:57:07 AM] Processing command ';paste -s' for 'ayutori'
 
-[2026-04-01 01:53:23:356 INFO] [Scripting] [LOG] [01:53:23 AM] Time taken to execute: 1ms (0.001 secs)
+[2026-04-01 01:57:07:308 INFO] [Scripting] [LOG] [01:57:07 AM] Time taken to execute: 3ms (0.003 secs)
 
-[2026-04-01 01:53:24:055 INFO] [Scripting] [LOG] [01:53:24 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 01:57:08:305 INFO] [Scripting] [LOG] [01:57:08 AM] Processing command ';paste -s' for 'ayutori'
 
-[2026-04-01 01:53:24:058 INFO] [Scripting] [LOG] [01:53:24 AM] Time taken to execute: 3ms (0.003 secs)
+[2026-04-01 01:57:08:309 INFO] [Scripting] [LOG] [01:57:08 AM] Time taken to execute: 4ms (0.004 secs)
 
-[2026-04-01 01:53:24:955 INFO] [Scripting] [LOG] [01:53:24 AM] Processing command ';pos2 436 121 653' for 'Now Name5064'
+[2026-04-01 01:57:50:506 INFO] [Scripting] [LOG] [01:57:50 AM] Processing command ';copy ' for 'Now Name5064'
 
-[2026-04-01 01:53:24:955 INFO] [Scripting] [LOG] [01:53:24 AM] Time taken to execute: 0ms (0 secs)
+[2026-04-01 01:57:50:519 INFO] [Scripting] [LOG] [01:57:50 AM] Time taken to execute: 13ms (0.013 secs)
 
-[2026-04-01 01:53:28:205 INFO] [Scripting] [LOG] [01:53:28 AM] Processing command ';copy ' for 'Now Name5064'
+[2026-04-01 01:57:59:440 INFO] Player connected: yukiusagi1497, xuid: 2535436528645900
+[2026-04-01 01:57:59:891 INFO] Player PartyIdUpdate:  pfid: 785E8BB54140E2D4, partyid: 
+[2026-04-01 01:58:01:603 INFO] Player Spawned: yukiusagi1497 xuid: 2535436528645900, pfid: 785E8BB54140E2D4
+[2026-04-01 01:58:10:056 ERROR] Could not op (already op or higher): ayutori
+[2026-04-01 01:58:14:955 INFO] [Scripting] [LOG] [01:58:14 AM] Processing command ';rotate 0 180' for 'Now Name5064'
 
-[2026-04-01 01:53:28:209 INFO] [Scripting] [LOG] [01:53:28 AM] Time taken to execute: 4ms (0.004 secs)
+[2026-04-01 01:58:14:955 INFO] [Scripting] [LOG] [01:58:14 AM] Time taken to execute: 0ms (0 secs)
 
-[2026-04-01 01:53:30:805 INFO] [Scripting] [LOG] [01:53:30 AM] Processing command ';paste -s' for 'Now Name5064'
+[2026-04-01 01:58:17:706 INFO] [Scripting] [LOG] [01:58:17 AM] Processing command ';paste -s' for 'Now Name5064'
 
-[2026-04-01 01:53:30:809 INFO] [Scripting] [LOG] [01:53:30 AM] Time taken to execute: 4ms (0.004 secs)
+[2026-04-01 01:58:17:718 INFO] [Scripting] [LOG] [01:58:17 AM] Time taken to execute: 12ms (0.012 secs)
 
-[2026-04-01 01:53:37:455 INFO] [Scripting] [LOG] [01:53:37 AM] Processing command ';undo ' for 'Now Name5064'
+[2026-04-01 01:58:37:070 INFO] There are 6/100 players online:
+kizayami4255, ayutori, yukiusagi1497, naan012, Now Name5064, tako7449
+[2026-04-01 01:58:37:205 INFO] [Scripting] [LOG] [01:58:37 AM] Processing command ';rotate 0 45' for 'Now Name5064'
 
-[2026-04-01 01:53:37:456 INFO] [Scripting] [LOG] [01:53:37 AM] Time taken to execute: 1ms (0.001 secs)
+[2026-04-01 01:58:37:205 INFO] [Scripting] [LOG] [01:58:37 AM] Time taken to execute: 0ms (0 secs)
 
-[2026-04-01 01:54:09:055 INFO] [Scripting] [LOG] [01:54:09 AM] Processing command ';pos2 431 121 660' for 'Now Name5064'
+[2026-04-01 01:58:40:256 INFO] [Scripting] [LOG] [01:58:40 AM] Processing command ';paste -s' for 'Now Name5064'
 
-[2026-04-01 01:54:09:056 INFO] [Scripting] [LOG] [01:54:09 AM] Time taken to execute: 1ms (0.001 secs)
+[2026-04-01 01:58:40:273 INFO] [Scripting] [LOG] [01:58:40 AM] Time taken to execute: 17ms (0.017 secs)
 
-[2026-04-01 01:54:16:305 INFO] [Scripting] [LOG] [01:54:16 AM] Processing command ';pos1 435 126 653' for 'Now Name5064'
+[2026-04-01 01:58:42:856 INFO] [Scripting] [LOG] [01:58:42 AM] Processing command ';undo ' for 'Now Name5064'
 
-[2026-04-01 01:54:16:305 INFO] [Scripting] [LOG] [01:54:16 AM] Time taken to execute: 0ms (0 secs)
-
-[2026-04-01 01:54:20:256 INFO] [Scripting] [LOG] [01:54:20 AM] Processing command ';copy ' for 'Now Name5064'
-
-[2026-04-01 01:54:20:270 INFO] [Scripting] [LOG] [01:54:20 AM] Time taken to execute: 14ms (0.014 secs)
-
-[2026-04-01 01:54:21:855 INFO] [Scripting] [LOG] [01:54:21 AM] Processing command ';paste -s' for 'N
+[2026
