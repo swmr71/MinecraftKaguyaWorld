@@ -1,5 +1,0 @@
-Dedicated_Server.txt
-[2026-04-01 06:14:13:599 INFO] There are 3/100 players online:
-kizayami4255, ayutori, RAIBUchannelpc
-[2026-04-01 06:14:59:613 INFO] Server stop requested.
-[2026-04-01 06:14:59:663 INFO] Stopping server...
