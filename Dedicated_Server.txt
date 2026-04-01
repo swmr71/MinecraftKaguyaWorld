@@ -1,9 +1,0 @@
-Dedicated_Server.txt
-[2026-04-01 06:27:37:246 INFO] [Scripting] [LOG] [06:27:37 AM] session for player -21474836172 has been deleted.
-
-[2026-04-01 06:28:00:686 INFO] Player connected: chikuwa108370, xuid: 2535446358972100
-[2026-04-01 06:28:03:727 INFO] Player PartyIdUpdate:  pfid: 8059851E9F7F55F2, partyid: 
-[2026-04-01 06:28:04:843 INFO] Player Spawned: chikuwa108370 xuid: 2535446358972100, pfid: 8059851E9F7F55F2
-[2026-04-01 06:28:35:937 INFO] Running AutoCompaction...
-[2026-04-01 06:29:59:261 INFO] Server stop requested.
-[2026-04-01 06:29:59:310 INFO] Stopping server...
