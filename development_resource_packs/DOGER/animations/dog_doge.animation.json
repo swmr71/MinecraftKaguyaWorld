@@ -1,0 +1,15 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.dog_doge.walk": {
+      "loop": true,
+      "anim_time_update": "query.modified_distance_moved * 0.4",
+      "bones": {
+        "leg0": { "rotation": ["Math.cos(query.anim_time * 38.17) * 40", 0, 0] },
+        "leg1": { "rotation": ["Math.cos(query.anim_time * 38.17) * -40", 0, 0] },
+        "leg2": { "rotation": ["Math.cos(query.anim_time * 38.17) * -40", 0, 0] },
+        "leg3": { "rotation": ["Math.cos(query.anim_time * 38.17) * 40", 0, 0] }
+      }
+    }
+  }
+}

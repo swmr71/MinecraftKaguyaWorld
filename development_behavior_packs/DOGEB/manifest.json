@@ -3,8 +3,8 @@
   "header": {
     "name": "Dog Doge BP",
     "description": "犬DOGEのビヘイビアーパックです",
-    "uuid": "a1b2c3d4-e5f6-4a1b-8c2d-e3f4a5b69999",
-    "version": [1, 0, 0],
+    "uuid": "a1b2c3d4-e5f6-4a1b-8c2d-e3f4a5b69998",
+    "version": [1, 0, 1],
     "min_engine_version": [1, 16, 0]
   },
   "modules": [

@@ -3,18 +3,17 @@
   "minecraft:client_entity": {
     "description": {
       "identifier": "custom:dog_doge",
-      "materials": {
-        "default": "entity_alphatest"
+      "materials": { "default": "entity_alphatest" },
+      "textures": { "default": "textures/entity/dog_doge" },
+      "geometry": { "default": "geometry.dog_doge" },
+      "animations": {
+        "walk": "animation.dog_doge.walk",
+        "move_controller": "controller.animation.dog_doge.move"
       },
-      "textures": {
-        "default": "textures/entity/dog_doge"
+      "scripts": {
+        "animate": [ "move_controller" ]
       },
-      "geometry": {
-        "default": "geometry.dog_doge"
-      },
-      "render_controllers": [
-        "controller.render.default"
-      ]
+      "render_controllers": [ "controller.render.default" ]
     }
   }
 }
