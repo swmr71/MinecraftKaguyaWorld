@@ -1,0 +1,1 @@
+{"namespace":"holoprint:common","invis_armor_stand_holding_item@invis_armor_stand":{"property_bag":{"#item_id_aux":"($armor_stand_item_id * 65536)"}},"invis_armor_stand":{"type":"custom","renderer":"equipment_preview_renderer","size":[0,0]}}

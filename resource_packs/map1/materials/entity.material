@@ -1,0 +1,1 @@
+{"materials":{"version":"1.0.0","holoprint_hologram:entity_alphablend":{"+states":["DisableCulling"],"variants":[{"wrong_block_overlay":{"depthFunc":"Always"}}]}}}
