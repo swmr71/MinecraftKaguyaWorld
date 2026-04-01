@@ -1,0 +1,228 @@
+Dedicated_Server.txt
+[2026-04-01 13:17:41:192 INFO] [Scripting] [LOG] [01:17:41 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:17:41:197 INFO] [Scripting] [LOG] [01:17:41 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:17:42:770 INFO] [Scripting] [LOG] [01:17:42 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:17:42:776 INFO] [Scripting] [LOG] [01:17:42 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:17:44:290 INFO] [Scripting] [LOG] [01:17:44 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:17:44:295 INFO] [Scripting] [LOG] [01:17:44 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:17:48:568 INFO] [Scripting] [LOG] [01:17:48 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:17:48:573 INFO] [Scripting] [LOG] [01:17:48 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:17:51:778 INFO] [Scripting] [LOG] [01:17:51 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:17:51:783 INFO] [Scripting] [LOG] [01:17:51 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:17:54:692 INFO] [Scripting] [LOG] [01:17:54 PM] session for player -21474836172 has been deleted.
+
+[2026-04-01 13:17:59:174 INFO] [Scripting] [LOG] [01:17:59 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:17:59:180 INFO] [Scripting] [LOG] [01:17:59 PM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 13:18:00:872 INFO] [Scripting] [LOG] [01:18:00 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:00:877 INFO] [Scripting] [LOG] [01:18:00 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:02:189 INFO] [Scripting] [LOG] [01:18:02 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:02:194 INFO] [Scripting] [LOG] [01:18:02 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:03:769 INFO] [Scripting] [LOG] [01:18:03 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:03:774 INFO] [Scripting] [LOG] [01:18:03 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:05:289 INFO] [Scripting] [LOG] [01:18:05 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:05:294 INFO] [Scripting] [LOG] [01:18:05 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:06:893 INFO] [Scripting] [LOG] [01:18:06 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:06:898 INFO] [Scripting] [LOG] [01:18:06 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:08:390 INFO] [Scripting] [LOG] [01:18:08 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:08:395 INFO] [Scripting] [LOG] [01:18:08 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:09:571 INFO] [Scripting] [LOG] [01:18:09 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:09:576 INFO] [Scripting] [LOG] [01:18:09 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:10:680 INFO] [Scripting] [LOG] [01:18:10 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:10:685 INFO] [Scripting] [LOG] [01:18:10 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:11:689 INFO] [Scripting] [LOG] [01:18:11 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:11:694 INFO] [Scripting] [LOG] [01:18:11 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:12:868 INFO] [Scripting] [LOG] [01:18:12 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:12:873 INFO] [Scripting] [LOG] [01:18:12 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:14:092 INFO] [Scripting] [LOG] [01:18:14 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:14:097 INFO] [Scripting] [LOG] [01:18:14 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:15:289 INFO] [Scripting] [LOG] [01:18:15 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:15:294 INFO] [Scripting] [LOG] [01:18:15 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:15:974 INFO] Player PartyIdUpdate:  pfid: 6375351581B95F2A, partyid: 
+[2026-04-01 13:18:16:624 INFO] [Scripting] [LOG] [01:18:16 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:16:629 INFO] [Scripting] [LOG] [01:18:16 PM] Time taken to execute: 4ms (0.004 secs)
+
+[2026-04-01 13:18:17:722 INFO] [Scripting] [LOG] [01:18:17 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:17:727 INFO] [Scripting] [LOG] [01:18:17 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:18:493 INFO] Player Spawned: RAIBUchannelpc xuid: 2535429770050915, pfid: 6375351581B95F2A
+[2026-04-01 13:18:18:501 INFO] [Scripting] [LOG] [01:18:18 PM] RAIBUchannelpc has been given worldedit permissions.
+
+[2026-04-01 13:18:18:922 INFO] [Scripting] [LOG] [01:18:18 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:18:927 INFO] [Scripting] [LOG] [01:18:18 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:19:928 INFO] [Scripting] [LOG] [01:18:19 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:19:935 INFO] [Scripting] [LOG] [01:18:19 PM] Time taken to execute: 7ms (0.007 secs)
+
+[2026-04-01 13:18:21:007 INFO] [Scripting] [LOG] [01:18:21 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:21:012 INFO] [Scripting] [LOG] [01:18:21 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:22:224 INFO] [Scripting] [LOG] [01:18:22 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:22:229 INFO] [Scripting] [LOG] [01:18:22 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:23:300 INFO] [Scripting] [LOG] [01:18:23 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:23:305 INFO] [Scripting] [LOG] [01:18:23 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:24:503 INFO] [Scripting] [LOG] [01:18:24 PM] Processing command ';paste -s' for 'Now Name5064'
+
+[2026-04-01 13:18:25:827 INFO] [Scripting] [LOG] [01:18:25 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:25:832 INFO] [Scripting] [LOG] [01:18:25 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:32:700 INFO] [Scripting] [LOG] [01:18:32 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:32:705 INFO] [Scripting] [LOG] [01:18:32 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:36:300 INFO] [Scripting] [LOG] [01:18:36 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:36:305 INFO] [Scripting] [LOG] [01:18:36 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:37:703 INFO] [Scripting] [LOG] [01:18:37 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:37:709 INFO] [Scripting] [LOG] [01:18:37 PM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 13:18:39:020 INFO] [Scripting] [LOG] [01:18:39 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:39:025 INFO] [Scripting] [LOG] [01:18:39 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:40:522 INFO] [Scripting] [LOG] [01:18:40 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:40:527 INFO] [Scripting] [LOG] [01:18:40 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:41:601 INFO] [Scripting] [LOG] [01:18:41 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:41:606 INFO] [Scripting] [LOG] [01:18:41 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:42:722 INFO] [Scripting] [LOG] [01:18:42 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:42:728 INFO] [Scripting] [LOG] [01:18:42 PM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 13:18:44:203 INFO] [Scripting] [LOG] [01:18:44 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:44:208 INFO] [Scripting] [LOG] [01:18:44 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:45:519 INFO] [Scripting] [LOG] [01:18:45 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:45:524 INFO] [Scripting] [LOG] [01:18:45 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:46:621 INFO] [Scripting] [LOG] [01:18:46 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:46:626 INFO] [Scripting] [LOG] [01:18:46 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:47:905 INFO] [Scripting] [LOG] [01:18:47 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:47:911 INFO] [Scripting] [LOG] [01:18:47 PM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 13:18:48:922 INFO] [Scripting] [LOG] [01:18:48 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:48:928 INFO] [Scripting] [LOG] [01:18:48 PM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 13:18:50:304 INFO] [Scripting] [LOG] [01:18:50 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:50:309 INFO] [Scripting] [LOG] [01:18:50 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:51:321 INFO] [Scripting] [LOG] [01:18:51 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:51:325 INFO] [Scripting] [LOG] [01:18:51 PM] Time taken to execute: 4ms (0.004 secs)
+
+[2026-04-01 13:18:52:405 INFO] [Scripting] [LOG] [01:18:52 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:52:410 INFO] [Scripting] [LOG] [01:18:52 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:53:421 INFO] [Scripting] [LOG] [01:18:53 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:53:426 INFO] [Scripting] [LOG] [01:18:53 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:54:400 INFO] [Scripting] [LOG] [01:18:54 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:54:405 INFO] [Scripting] [LOG] [01:18:54 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:55:321 INFO] [Scripting] [LOG] [01:18:55 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:55:326 INFO] [Scripting] [LOG] [01:18:55 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:56:309 INFO] [Scripting] [LOG] [01:18:56 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:56:314 INFO] [Scripting] [LOG] [01:18:56 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:57:200 INFO] [Scripting] [LOG] [01:18:57 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:57:205 INFO] [Scripting] [LOG] [01:18:57 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:58:301 INFO] [Scripting] [LOG] [01:18:58 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:58:306 INFO] [Scripting] [LOG] [01:18:58 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:18:59:309 INFO] [Scripting] [LOG] [01:18:59 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:18:59:314 INFO] [Scripting] [LOG] [01:18:59 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:19:00:201 INFO] [Scripting] [LOG] [01:19:00 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:19:00:206 INFO] [Scripting] [LOG] [01:19:00 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:19:01:221 INFO] [Scripting] [LOG] [01:19:01 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:19:01:226 INFO] [Scripting] [LOG] [01:19:01 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:19:02:107 INFO] [Scripting] [LOG] [01:19:02 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:19:02:113 INFO] [Scripting] [LOG] [01:19:02 PM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 13:19:03:321 INFO] [Scripting] [LOG] [01:19:03 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:19:03:326 INFO] [Scripting] [LOG] [01:19:03 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:19:05:106 INFO] [Scripting] [LOG] [01:19:05 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:19:05:111 INFO] [Scripting] [LOG] [01:19:05 PM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 13:19:10:609 INFO] [Scripting] [LOG] [01:19:10 PM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 13:19:10:615 INFO] [Scripting] [LOG] [01:19:10 PM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 13:19:12:904 INFO] [Scripting] [LOG] [01:19:12 PM] Processing command ';paste -s' for 'Yationi'
+
+[
