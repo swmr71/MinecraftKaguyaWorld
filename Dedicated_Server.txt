@@ -1,0 +1,76 @@
+Dedicated_Server.txt
+[2026-04-01 04:48:23:123 INFO] [Scripting] [LOG] [04:48:23 AM] Time taken to execute: 7ms (0.007 secs)
+
+[2026-04-01 04:48:27:615 INFO] [Scripting] [LOG] [04:48:27 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:48:27:620 INFO] [Scripting] [LOG] [04:48:27 AM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 04:48:31:615 INFO] [Scripting] [LOG] [04:48:31 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:48:31:622 INFO] [Scripting] [LOG] [04:48:31 AM] Time taken to execute: 7ms (0.007 secs)
+
+[2026-04-01 04:48:35:165 INFO] [Scripting] [LOG] [04:48:35 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:48:35:171 INFO] [Scripting] [LOG] [04:48:35 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 04:48:38:715 INFO] [Scripting] [LOG] [04:48:38 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:48:38:721 INFO] [Scripting] [LOG] [04:48:38 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 04:48:40:765 INFO] [Scripting] [LOG] [04:48:40 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:48:40:770 INFO] [Scripting] [LOG] [04:48:40 AM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 04:48:51:665 INFO] [Scripting] [LOG] [04:48:51 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:48:51:671 INFO] [Scripting] [LOG] [04:48:51 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 04:48:57:215 INFO] [Scripting] [LOG] [04:48:57 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:48:57:221 INFO] [Scripting] [LOG] [04:48:57 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 04:49:03:515 INFO] [Scripting] [LOG] [04:49:03 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:49:03:521 INFO] [Scripting] [LOG] [04:49:03 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 04:49:06:566 INFO] [Scripting] [LOG] [04:49:06 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:49:06:571 INFO] [Scripting] [LOG] [04:49:06 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 04:49:08:317 INFO] [Scripting] [LOG] [04:49:08 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:49:08:323 INFO] [Scripting] [LOG] [04:49:08 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 04:49:10:816 INFO] [Scripting] [LOG] [04:49:10 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:49:10:822 INFO] [Scripting] [LOG] [04:49:10 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 04:49:12:166 INFO] [Scripting] [LOG] [04:49:12 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:49:12:172 INFO] [Scripting] [LOG] [04:49:12 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 04:49:14:415 INFO] [Scripting] [LOG] [04:49:14 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:49:14:421 INFO] [Scripting] [LOG] [04:49:14 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 04:49:16:215 INFO] [Scripting] [LOG] [04:49:16 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:49:16:221 INFO] [Scripting] [LOG] [04:49:16 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 04:49:22:915 INFO] [Scripting] [LOG] [04:49:22 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:49:22:921 INFO] [Scripting] [LOG] [04:49:22 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 04:49:25:515 INFO] [Scripting] [LOG] [04:49:25 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:49:25:520 INFO] [Scripting] [LOG] [04:49:25 AM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 04:49:27:265 INFO] [Scripting] [LOG] [04:49:27 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:49:27:271 INFO] [Scripting] [LOG] [04:49:27 AM] Time taken to execute: 6ms (0.006 secs)
+
+[2026-04-01 04:49:28:516 INFO] [Scripting] [LOG] [04:49:28 AM] Processing command ';paste -s' for 'Yationi'
+
+[2026-04-01 04:49:28:521 INFO] [Scripting] [LOG] [04:49:28 AM] Time taken to execute: 5ms (0.005 secs)
+
+[2026-04-01 04:49:32:217 INFO] [Scripting] [LOG] [04:49:32 AM] Processing command ';paste -s' for '
