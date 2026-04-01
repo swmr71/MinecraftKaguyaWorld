@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dog Doge RP",
+    "description": "ワンちゃんのリソースパックです",
+    "uuid": "1a2b3c4d-5e6f-41a2-b3c4-d5e6f7a89999",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "9f8e7d6c-5b4a-49f8-a7d6-c5b4a3f29999",
+      "version": [1, 0, 0]
+    }
+  ]
+}
