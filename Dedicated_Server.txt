@@ -1,74 +1,73 @@
 Dedicated_Server.txt
-[2026-04-01 01:56:48:955 INFO] [Scripting] [LOG] [01:56:48 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 02:02:16:170 INFO] Player connected: azna1113, xuid: 2535432495945223
+[2026-04-01 02:02:42:556 INFO] Player PartyIdUpdate:  pfid: C5E191802BA5BCBE, partyid: 
+[2026-04-01 02:02:45:234 INFO] [Scripting] [LOG] [02:02:45 AM] Processing command ';pos2 447 121 703' for 'ayutori'
 
-[2026-04-01 01:56:48:958 INFO] [Scripting] [LOG] [01:56:48 AM] Time taken to execute: 3ms (0.003 secs)
+[2026-04-01 02:02:45:235 INFO] [Scripting] [LOG] [02:02:45 AM] Time taken to execute: 1ms (0.001 secs)
 
-[2026-04-01 01:56:50:805 INFO] [Scripting] [LOG] [01:56:50 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 02:02:46:984 INFO] [Scripting] [LOG] [02:02:46 AM] Processing command ';pos2 447 121 703' for 'ayutori'
 
-[2026-04-01 01:56:50:809 INFO] [Scripting] [LOG] [01:56:50 AM] Time taken to execute: 4ms (0.004 secs)
+[2026-04-01 02:02:46:984 INFO] [Scripting] [LOG] [02:02:46 AM] Time taken to execute: 0ms (0 secs)
 
-[2026-04-01 01:56:53:005 INFO] [Scripting] [LOG] [01:56:53 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 02:02:53:131 INFO] Player Spawned: azna1113 xuid: 2535432495945223, pfid: C5E191802BA5BCBE
+[2026-04-01 02:02:57:985 INFO] [Scripting] [LOG] [02:02:57 AM] Processing command ';pos2 425 129 681' for 'Now Name5064'
 
-[2026-04-01 01:56:53:008 INFO] [Scripting] [LOG] [01:56:53 AM] Time taken to execute: 3ms (0.003 secs)
+[2026-04-01 02:02:57:985 INFO] [Scripting] [LOG] [02:02:57 AM] Time taken to execute: 0ms (0 secs)
 
-[2026-04-01 01:56:55:956 INFO] [Scripting] [LOG] [01:56:55 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 02:03:00:084 INFO] [Scripting] [LOG] [02:03:00 AM] Processing command ';pos1 432 122 690' for 'Now Name5064'
 
-[2026-04-01 01:56:55:959 INFO] [Scripting] [LOG] [01:56:55 AM] Time taken to execute: 3ms (0.003 secs)
+[2026-04-01 02:03:00:085 INFO] [Scripting] [LOG] [02:03:00 AM] Time taken to execute: 1ms (0.001 secs)
 
-[2026-04-01 01:56:57:905 INFO] [Scripting] [LOG] [01:56:57 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 02:03:07:384 INFO] [Scripting] [LOG] [02:03:07 AM] Processing command ';set glass' for 'Now Name5064'
 
-[2026-04-01 01:56:57:908 INFO] [Scripting] [LOG] [01:56:57 AM] Time taken to execute: 3ms (0.003 secs)
+[2026-04-01 02:03:07:388 INFO] [Scripting] [LOG] [02:03:07 AM] Time taken to execute: 4ms (0.004 secs)
 
-[2026-04-01 01:56:59:756 INFO] [Scripting] [LOG] [01:56:59 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 02:03:11:695 INFO] [Scripting] [LOG] [02:03:11 AM] Processing command ';pos1 397 121 653' for 'ayutori'
 
-[2026-04-01 01:56:59:759 INFO] [Scripting] [LOG] [01:56:59 AM] Time taken to execute: 3ms (0.003 secs)
+[2026-04-01 02:03:11:695 INFO] [Scripting] [LOG] [02:03:11 AM] Time taken to execute: 1ms (0.001 secs)
 
-[2026-04-01 01:57:01:405 INFO] [Scripting] [LOG] [01:57:01 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 02:03:14:684 INFO] [Scripting] [LOG] [02:03:14 AM] Processing command ';undo ' for 'Now Name5064'
 
-[2026-04-01 01:57:01:409 INFO] [Scripting] [LOG] [01:57:01 AM] Time taken to execute: 4ms (0.004 secs)
+[2026-04-01 02:03:14:687 INFO] [Scripting] [LOG] [02:03:14 AM] Time taken to execute: 3ms (0.003 secs)
 
-[2026-04-01 01:57:03:105 INFO] [Scripting] [LOG] [01:57:03 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 02:03:16:735 INFO] [Scripting] [LOG] [02:03:16 AM] Processing command ';redo ' for 'Now Name5064'
 
-[2026-04-01 01:57:03:109 INFO] [Scripting] [LOG] [01:57:03 AM] Time taken to execute: 4ms (0.004 secs)
+[2026-04-01 02:03:16:737 INFO] [Scripting] [LOG] [02:03:16 AM] Time taken to execute: 2ms (0.002 secs)
 
-[2026-04-01 01:57:04:205 INFO] [Scripting] [LOG] [01:57:04 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 02:03:18:944 INFO] [Scripting] [LOG] [02:03:18 AM] Processing command ';undo ' for 'Now Name5064'
 
-[2026-04-01 01:57:04:208 INFO] [Scripting] [LOG] [01:57:04 AM] Time taken to execute: 3ms (0.003 secs)
+[2026-04-01 02:03:18:947 INFO] [Scripting] [LOG] [02:03:18 AM] Time taken to execute: 3ms (0.003 secs)
 
-[2026-04-01 01:57:07:305 INFO] [Scripting] [LOG] [01:57:07 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 02:03:20:085 INFO] [Scripting] [LOG] [02:03:20 AM] Processing command ';copy ' for 'ayutori'
 
-[2026-04-01 01:57:07:308 INFO] [Scripting] [LOG] [01:57:07 AM] Time taken to execute: 3ms (0.003 secs)
+[2026-04-01 02:03:20:209 INFO] [Scripting] [LOG] [02:03:20 AM] Time taken to execute: 124ms (0.124 secs)
 
-[2026-04-01 01:57:08:305 INFO] [Scripting] [LOG] [01:57:08 AM] Processing command ';paste -s' for 'ayutori'
+[2026-04-01 02:03:20:874 INFO] [Scripting] [LOG] [02:03:20 AM] Processing command ';redo ' for 'Now Name5064'
 
-[2026-04-01 01:57:08:309 INFO] [Scripting] [LOG] [01:57:08 AM] Time taken to execute: 4ms (0.004 secs)
+[2026-04-01 02:03:20:876 INFO] [Scripting] [LOG] [02:03:20 AM] Time taken to execute: 2ms (0.002 secs)
 
-[2026-04-01 01:57:50:506 INFO] [Scripting] [LOG] [01:57:50 AM] Processing command ';copy ' for 'Now Name5064'
+[2026-04-01 02:03:22:064 INFO] [Scripting] [LOG] [02:03:22 AM] Processing command ';undo ' for 'Now Name5064'
 
-[2026-04-01 01:57:50:519 INFO] [Scripting] [LOG] [01:57:50 AM] Time taken to execute: 13ms (0.013 secs)
+[2026-04-01 02:03:22:067 INFO] [Scripting] [LOG] [02:03:22 AM] Time taken to execute: 3ms (0.003 secs)
 
-[2026-04-01 01:57:59:440 INFO] Player connected: yukiusagi1497, xuid: 2535436528645900
-[2026-04-01 01:57:59:891 INFO] Player PartyIdUpdate:  pfid: 785E8BB54140E2D4, partyid: 
-[2026-04-01 01:58:01:603 INFO] Player Spawned: yukiusagi1497 xuid: 2535436528645900, pfid: 785E8BB54140E2D4
-[2026-04-01 01:58:10:056 ERROR] Could not op (already op or higher): ayutori
-[2026-04-01 01:58:14:955 INFO] [Scripting] [LOG] [01:58:14 AM] Processing command ';rotate 0 180' for 'Now Name5064'
+[2026-04-01 02:03:23:064 INFO] [Scripting] [LOG] [02:03:23 AM] Processing command ';redo ' for 'Now Name5064'
 
-[2026-04-01 01:58:14:955 INFO] [Scripting] [LOG] [01:58:14 AM] Time taken to execute: 0ms (0 secs)
+[2026-04-01 02:03:23:067 INFO] [Scripting] [LOG] [02:03:23 AM] Time taken to execute: 3ms (0.003 secs)
 
-[2026-04-01 01:58:17:706 INFO] [Scripting] [LOG] [01:58:17 AM] Processing command ';paste -s' for 'Now Name5064'
+[2026-04-01 02:03:24:264 INFO] [Scripting] [LOG] [02:03:24 AM] Processing command ';undo ' for 'Now Name5064'
 
-[2026-04-01 01:58:17:718 INFO] [Scripting] [LOG] [01:58:17 AM] Time taken to execute: 12ms (0.012 secs)
+[2026-04-01 02:03:24:266 INFO] [Scripting] [LOG] [02:03:24 AM] Time taken to execute: 2ms (0.002 secs)
 
-[2026-04-01 01:58:37:070 INFO] There are 6/100 players online:
-kizayami4255, ayutori, yukiusagi1497, naan012, Now Name5064, tako7449
-[2026-04-01 01:58:37:205 INFO] [Scripting] [LOG] [01:58:37 AM] Processing command ';rotate 0 45' for 'Now Name5064'
+[2026-04-01 02:03:33:465 INFO] [Scripting] [LOG] [02:03:33 AM] Processing command ';paste -s' for 'ayutori'
 
-[2026-04-01 01:58:37:205 INFO] [Scripting] [LOG] [01:58:37 AM] Time taken to execute: 0ms (0 secs)
+[2026-04-01 02:03:33:476 INFO] [Scripting] [LOG] [02:03:33 AM] Time taken to execute: 11ms (0.011 secs)
 
-[2026-04-01 01:58:40:256 INFO] [Scripting] [LOG] [01:58:40 AM] Processing command ';paste -s' for 'Now Name5064'
+[2026-04-01 02:03:37:977 INFO] [Scripting] [LOG] [02:03:37 AM] Processing command ';undo ' for 'ayutori'
 
-[2026-04-01 01:58:40:273 INFO] [Scripting] [LOG] [01:58:40 AM] Time taken to execute: 17ms (0.017 secs)
+[2026-04-01 02:03:37:987 INFO] [Scripting] [LOG] [02:03:37 AM] Time taken to execute: 10ms (0.01 secs)
 
-[2026-04-01 01:58:42:856 INFO] [Scripting] [LOG] [01:58:42 AM] Processing command ';undo ' for 'Now Name5064'
+[2026-04-01 02:03:39:565 INFO] [Scripting] [LOG] [02:03:39 AM] Processing command ';pos1 441 121 700' for 'Now Name5064'
 
-[2026
+[2026-04-01 02:03:39:565 INFO] [Scripting] [LOG] [02:03:39 AM] Time taken to execute: 0ms (0 secs)
+
+[2026-04-01 02:03:40:565 INFO] [Scripting] [LOG] [02:03:40 AM] Processing comm
