@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "パンケーキ",
+		"description": "パンケーキ Behavior Pack",
+		"uuid": "306c9670-7587-39c2-269d-7c44971e477f",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 20, 0]
+	},
+	"metadata": {
+		"generated_with": {
+			"blockbench_item_wizard": ["1.2.4"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "67895953-45e3-217b-fe69-ed221671a142",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "3fc16004-0be4-298d-99ab-9d69a5f563f0",
+			"version": [1, 0, 0]
+		}
+	]
+}

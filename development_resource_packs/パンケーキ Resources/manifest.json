@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "パンケーキ",
+		"description": "パンケーキ Resource Pack",
+		"uuid": "3fc16004-0be4-298d-99ab-9d69a5f563f0",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"generated_with": {
+			"blockbench_item_wizard": ["1.2.4"]
+		}
+	},
+	"modules": [
+		{
+			"description": "パンケーキ",
+			"type": "resources",
+			"uuid": "a2367ddc-7183-de95-7167-c0a683d2eb0c",
+			"version": [1, 0, 0]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "306c9670-7587-39c2-269d-7c44971e477f",
+			"version": [1, 0, 0]
+		}
+	]
+}

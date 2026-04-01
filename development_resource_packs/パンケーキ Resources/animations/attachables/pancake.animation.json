@@ -1,0 +1,29 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.pancake.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"bb_main": {
+					"relative_to": {
+						"rotation": "entity"
+					},
+					"rotation": [0, 0, 0.01],
+					"position": [0, -4.5, -5.7]
+				}
+			}
+		},
+		"animation.pancake.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"bb_main": {
+					"relative_to": {
+						"rotation": "entity"
+					},
+					"rotation": [0, 0, 0.01],
+					"position": [0, -4.5, -5.7]
+				}
+			}
+		}
+	}
+}
